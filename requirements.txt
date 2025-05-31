@@ -1,0 +1,8 @@
+streamlit
+Pillow
+numpy
+scikit-learn
+
+
+# pip install -r requirements.txt
+# streamlit run app.py
